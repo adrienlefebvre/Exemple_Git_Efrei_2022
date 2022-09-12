@@ -5,3 +5,6 @@ Ceci est un deuxieme message
 Ceci est un troisième message.
 
 Ceci est un quatrième message il n'existe pas sur la branche distante
+
+
+Ceci est un cinquième message. Il existera d'abord que dans la branche feature/new-text
