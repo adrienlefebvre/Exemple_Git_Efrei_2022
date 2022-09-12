@@ -8,3 +8,5 @@ Ceci est un quatrième message il n'existe pas sur la branche distante
 
 
 Ceci est un cinquième message. Il existera d'abord que dans la branche feature/new-text
+
+Ceci est un sixième message. Il existe uniquement dans la branche main pour le moment.
