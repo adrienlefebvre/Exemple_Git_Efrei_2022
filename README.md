@@ -1,5 +1,8 @@
-# Titre du projet
+# Chanteur
 
-## Sous-titre du projet
+## Nom de la chanson
 
-Ceci est un projet GIT d'exemple
+I will never leave your side, my love
+Standing right beside you is enough
+Count on me if you feel any pain
+Call to me, I'll run to you again
