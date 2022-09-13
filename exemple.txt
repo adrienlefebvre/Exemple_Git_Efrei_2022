@@ -6,7 +6,10 @@ Ceci est un troisième message.
 
 Ceci est un quatrième message il n'existe pas sur la branche distante
 
-
 Ceci est un cinquième message. Cette phrase existe dans les deux branches mais est différente!
 
 Ceci est un sixième message. Il existe uniquement dans la branche main pour le moment.
+
+Je devais faire des modifications pour un exercice. Alors j'ai écris cette phrase.
+
+
