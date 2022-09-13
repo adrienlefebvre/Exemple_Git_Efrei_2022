@@ -11,3 +11,6 @@ You can count on me <br>
 And I can count on you <br>
 You show up, like I show up <br>
 And I'll keep showing up for you <br>
+
+So take my hand, don't be afraid <br>
+This too shall pass, this too shall pass<br>
